@@ -13,4 +13,4 @@ To install all dependencies, run
 > <code>$ mvn clean install</code>
 ## Running tests
  > <code>$ mvn test</code>
-By default, tests will run on Chrome. If you haven't added the chrome driver path to your local variables, you can add it directly in the run command with the option -Dwebdriver.chrome.driver=path/to/the/driver.
+<p>By default, tests will run on Chrome. If you haven't added the chrome driver path to your local variables, you can add it directly in the run command with the option -Dwebdriver.chrome.driver=path/to/the/driver.</p>
